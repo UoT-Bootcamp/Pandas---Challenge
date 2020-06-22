@@ -90,4 +90,4 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
-# Finally, We must include a written description of at least two observable trends based on the data.
+# Finally, We have to include a written description of at least two observable trends based on the data.
