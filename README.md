@@ -1,5 +1,3 @@
-# Pandas---Challenge
-
 
 # PyCitySchools
 
