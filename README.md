@@ -89,4 +89,20 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
-### Finally, We have to include a written description of at least two observable trends based on the data.
+## Observable Trends:
+
+**District Summary:** The students are good in reading with respect to Math. More than 65% of the total students have passed in both the subjects.
+
+**Top performing school:** The Charter school type are in the top performing schools. The overall passing percentage is greater than 90% and have less number of students with respect to the District model.
+
+**Bottom performing school:** District school types are bottom performer with overall passing percentage less than 55%. It is also observable that they have higher number of students with respect to the Charter school types.
+
+**Math scores by grade:** Out of 15 schools, only 8 has more than 80% average math score for students of each grade level (9th, 10th, 11th and 12th) and all are of Charter Model.
+
+**Reading scores by grade:** All schools have more than 80% average reading score for students of each grade level (9th, 10th, 11th and 12th. It seems that students of both type of schools are doing good in reading.
+
+**Scores by School Spending:** When the budget per student is less, then the overall passing percent increases. In other words we can say that the budget per student is inversely proportional to the overall passing percentage.
+
+**Scores by School size:** The schools where number of students are less than 2000 are doing good in all respect. Whereas the schools having more number of students are doing good in Reading only but the overall passing percentage is less than 60%.
+
+**Scores by School Type:** The Charter model of schools have good overall passing percentage including Math and Reading. On contrary, the district model of schools are good only in reading but have less than 60% of overall passing.
