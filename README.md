@@ -20,6 +20,9 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/district_summary.png)
+<br>
 
 # School Summary
 
@@ -36,6 +39,9 @@ Create an overview table that summarizes key metrics about each school, includin
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/school_summary.png)
+<br>
 
 # Top Performing Schools (By % Overall Passing)
 
@@ -52,21 +58,32 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/top_performing_school.png)
+<br>
 
 # Bottom Performing Schools (By % Overall Passing)
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/bottom_performing_school.png)
+<br>
 
 # Math Scores by Grade
 
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/math_score.png)
+<br>
 
 # Reading Scores by Grade
 
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/reading_score_grade.png)
+<br>
 
 # Scores by School Spending
 
@@ -78,16 +95,25 @@ Create a table that breaks down school performances based on average Spending Ra
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/score_school_spending.png)
+<br>
 
 # Scores by School Size
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/scores_school_size.png)
+<br>
 
 # Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
+<br>
+![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/scores_school_type.png)
+<br>
 
 # Observable Trends:
 
