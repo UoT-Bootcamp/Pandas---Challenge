@@ -73,6 +73,7 @@ Create a table that highlights the bottom 5 performing schools based on % Overal
 # Math Scores by Grade
 
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 <br>
 ![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/math_score.png)
 <br>
