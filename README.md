@@ -41,6 +41,7 @@ Create an overview table that summarizes key metrics about each school, includin
 - % Overall Passing (The percentage of students that passed math and reading.)
 
 <br>
+
 ![img](PyCitySchools/screenshots/school_summary.png)
 <br>
 
@@ -60,6 +61,7 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 - % Overall Passing (The percentage of students that passed math and reading.)
 
 <br>
+
 ![img](PyCitySchools/screenshots/top_performing_school.png)
 <br>
 
@@ -68,6 +70,7 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 <br>
+
 ![img](PyCitySchools/screenshots/bottom_performing_school.png)
 <br>
 
@@ -76,6 +79,7 @@ Create a table that highlights the bottom 5 performing schools based on % Overal
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 <br>
+
 ![img](PyCitySchools/screenshots/math_score.png)
 <br>
 
@@ -84,6 +88,7 @@ Create a table that lists the average Math Score for students of each grade leve
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 <br>
+
 ![img](PyCitySchools/screenshots/reading_score_grade.png)
 <br>
 
@@ -98,6 +103,7 @@ Create a table that breaks down school performances based on average Spending Ra
 - % Overall Passing (The percentage of students that passed math and reading.)
 
 <br>
+
 ![img](PyCitySchools/screenshots/score_school_spending.png)
 <br>
 
@@ -106,6 +112,7 @@ Create a table that breaks down school performances based on average Spending Ra
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 <br>
+
 ![img](PyCitySchools/screenshots/scores_school_size.png)
 <br>
 
@@ -114,6 +121,7 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 <br>
+
 ![img](PyCitySchools/screenshots/scores_school_type.png)
 <br>
 
