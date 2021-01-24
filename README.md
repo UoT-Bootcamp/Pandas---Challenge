@@ -89,7 +89,7 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
-## Observable Trends:
+# Observable Trends:
 
 **District Summary:** The students are good in reading with respect to Math. More than 65% of the total students have passed in both the subjects.
 
