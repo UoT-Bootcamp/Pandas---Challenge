@@ -22,7 +22,7 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 
 <br>
 
-![img](WebVisualizations/small_screen_visualizations/landing_page_viz.png)
+![img](PyCitySchools/screenshots/school_summary.png)
 <br>
 
 # School Summary
