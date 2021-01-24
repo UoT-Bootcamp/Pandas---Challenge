@@ -21,7 +21,8 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 - % Overall Passing (The percentage of students that passed math and reading.)
 
 <br>
-![img](https://github.com/UoT-Bootcamp/PyCity-Schools/blob/master/PyCitySchools/screenshots/school_summary.png)
+
+![img](WebVisualizations/small_screen_visualizations/landing_page_viz.png)
 <br>
 
 # School Summary
